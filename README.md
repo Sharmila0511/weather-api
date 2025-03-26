@@ -5,7 +5,7 @@ Overview
 
 The Weather App is a simple web application that provides real-time weather updates for any location. It fetches weather data from the OpenWeatherMap API and displays key weather details such as temperature, humidity, and wind speed.
 
-Features
+Features:
 
   Get weather updates for any city worldwide
 
@@ -20,7 +20,7 @@ Features
   User-friendly interface
 
 
- Technologies Used
+ Technologies Used:
 
    HTML - Structure of the web page
 
@@ -30,10 +30,10 @@ Features
 
    OpenWeatherMap API - Source for weather data
 
- Live Demo
+ Live Demo:
 
    (https://sharmila0511.github.io/weather-api/)
 
- License
+ License:
 
    This project is for learning purposes. Feel free to use and modify it.
